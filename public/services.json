@@ -1,44 +1,44 @@
 [
     {
         "id": 1,
-        "name": "ENGINE DIAGNOSTIC",
+        "name": "Career Spark Lite",
         "price": "300",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/dGDkr4v/1.jpg"
+        "description": "For school students in Grades 8 and below for world of work exploration",
+        "img": "https://d38vm879w3ktuo.cloudfront.net/sites/all/themes/tucareers_boot/img/SparkLite.png"
     },
     {
         "id": 2,
-        "name": "WHEEL ALIGNMENT",
+        "name": "Career Spark Basic",
         "price": "100",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/tY8dmnP/2.jpg"
+        "description": "For school students in Grade 9 and 10 for path and stream selection",
+        "img": "https://d38vm879w3ktuo.cloudfront.net/sites/all/themes/tucareers_boot/img/SparkLite.png"
     },
     {
         "id": 3,
-        "name": "OIL CHANGING",
+        "name": "Career Spark Advanced",
         "price": "150",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/Yh04YVw/3.jpg"
+        "description": "For school students in Grade 9 and 10 for path and stream selection",
+        "img": "https://d38vm879w3ktuo.cloudfront.net/sites/all/themes/tucareers_boot/img/Career_Ignite.png"
     },
     {
         "id": 4,
-        "name": "BRAKE REPARING",
+        "name": "Career Ignite",
         "price": "180",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/ZX2Cbkn/4.jpg"
+        "description": "For school students in Grade 11 and 12 to decide on path and college subjects",
+        "img": "https://d38vm879w3ktuo.cloudfront.net/sites/all/themes/tucareers_boot/img/Career_Energize.png"
     },
     {
         "id": 5,
-        "name": "WASH AND GLASSING",
+        "name": "Career Energize",
         "price": "100",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/FgQ3jXp/5.jpg"
+        "description": "Suitable for graduate and post graduate students and early stage professionals.",
+        "img": "https://d38vm879w3ktuo.cloudfront.net/sites/all/themes/tucareers_boot/img/Career_Ignite.png"
     },
     {
         "id": 6,
-        "name": "COMPLETE ANALYSIS",
+        "name": "Career Ignite",
         "price": "300",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
-        "img": "https://i.ibb.co/zJy5ZDd/6.jpg"
+        "description": "Suitable for working professionals to make career change and fitment decisions.",
+        "img": "https://d38vm879w3ktuo.cloudfront.net/sites/all/themes/tucareers_boot/img/Career_Energize.png"
     }
 ]

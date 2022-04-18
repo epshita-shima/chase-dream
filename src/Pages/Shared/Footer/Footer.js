@@ -14,22 +14,24 @@ const Footer = () => {
                     <p>FAQs</p>
                 </div>
                 <div className='col-sm-6 col-md-3 col-lg-3'>
-                    <h3>About</h3>
-                    <p>About</p>
-                    <p>Contact us</p>
-                    <p>FAQs</p>
+                    <h3>Search</h3>
+                    <p>College</p>
+                    <p>Courses and Title</p>
+                    <p>Jobs and Internships</p>
                 </div>
                 <div className='col-sm-6 col-md-3 col-lg-3'>
-                    <h3>About</h3>
-                    <p>About</p>
-                    <p>Contact us</p>
-                    <p>FAQs</p>
+                    <h3>Explor</h3>
+                    <p>Paths and Clusters</p>
+                    <p>Job Families</p>
+                    <p>Occupations</p>
                 </div>
                 <div className='col-sm-6 col-md-3 col-lg-3'>
-                    <h3>About</h3>
-                    <p>About</p>
-                    <p>Contact us</p>
-                    <p>FAQs</p>
+                    <h3>Partner</h3>
+                    <p>Counsellors/Schools</p>
+                    <p>Colleges/
+                        universities
+                    </p>
+                    <p>Industry</p>
                 </div>
             </div>
             <div className='row p-3' style={{ background: '#007fff' }}>

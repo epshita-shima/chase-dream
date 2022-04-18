@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import ServicesDetail from '../../ServicesDetail/ServicesDetail';
 import Service from '../Service/Service';
 import './Services.css'
 
@@ -12,7 +13,7 @@ const Services = () => {
     }, [])
     return (
         <div id="services" className='container'>
-            <h2 className='services-title'>Our services</h2>
+            <h2 className='services-title m-5'>Our services</h2>
             <div className='services-container'>
                 {
                     services.map(service => <Service

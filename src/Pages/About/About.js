@@ -4,12 +4,13 @@ import './About.css'
 const About = () => {
     return (
         <div className='about container'>
-            <h2 className='text-center text-primary mt-4'>About Me</h2>
+
             <div className="row mt-5">
                 <div className="col-sm-12 col-md-6">
                     <img className='img-fluid' src="https://scontent.fdac80-1.fna.fbcdn.net/v/t39.30808-6/265814423_1510901442613978_4009265013498902365_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=174925&_nc_ohc=m7fohJ5YxdIAX9SUgTh&_nc_ht=scontent.fdac80-1.fna&oh=00_AT8iFUc2TWHGi4zUDCaiFGoM1GWYn0uBS_MOjkjW6tfTUg&oe=6262E4C8" alt="" />
                 </div>
                 <div className="col-sm-12 col-md-6 mt-5 p-5">
+                    <h2 className='text-primary mt-4'>About Me</h2>
                     <p>Hey Shima is here,
 
                         I am a frontend developer. I can easily build your website. Leading photo editor with lots of

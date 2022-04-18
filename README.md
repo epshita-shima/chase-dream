@@ -1,6 +1,29 @@
-# Getting Started with Create React App
+# Chase Dream
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+In this project making a carrier gudeline base.
+
+## Technology Used
+
+### React Bootstrap
+
+### React firebase hooks
+
+### Bootstrap
+
+### React Tostify
+
+### Google firebase for authentication
+
+### React Router
+
+### Description Project
+
+### Private Router checkout 
+
+In this project have login authentication for user.\
+User signup the website with their valid email, or if user already have signup the website then can login. User visit the website for their carrier guidelines and go to checkout to the guidelines option.
 
 ## Available Scripts
 
