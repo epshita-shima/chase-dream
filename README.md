@@ -1,6 +1,6 @@
 # Chase Dream
 
-This project was bootstrapped with [Create React App](https://chase-dream.web.app).
+This project was bootstrapped with live link (https://chase-dream.web.app).
 
 In this project making a carrier gudeline base.
 
