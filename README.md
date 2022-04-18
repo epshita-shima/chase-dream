@@ -1,6 +1,6 @@
 # Chase Dream
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://chase-dream.web.app).
 
 In this project making a carrier gudeline base.
 
@@ -18,12 +18,13 @@ In this project making a carrier gudeline base.
 
 ### React Router
 
-### Description Project
-
 ### Private Router checkout 
 
+## `Description Project`
+
 In this project have login authentication for user.\
-User signup the website with their valid email, or if user already have signup the website then can login. User visit the website for their carrier guidelines and go to checkout to the guidelines option.
+User signup the website with their valid email, or if user already have signup the website then can login.\
+ User visit the website for their carrier guidelines and go to checkout to the guidelines option.
 
 ## Available Scripts
 
