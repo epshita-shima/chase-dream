@@ -9,6 +9,7 @@ import SignUp from './Pages/Login/SignUp/SignUp';
 import ServicesDetail from './Pages/ServicesDetail/ServicesDetail';
 import Footer from './Pages/Shared/Footer/Footer';
 import Header from './Pages/Shared/Header/Header';
+import NotFound from './Pages/Shared/NotFound/NotFound';
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
         </RequireAuth>}></Route>
         <Route path='/signup' element={<SignUp></SignUp>}></Route>
         <Route path='/login' element={<Login></Login>}></Route>
+        <Route path='*' element={<NotFound></NotFound>}></Route>
 
       </Routes>
       <Footer></Footer>
